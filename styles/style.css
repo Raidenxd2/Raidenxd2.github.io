@@ -64,6 +64,11 @@ a:hover {
     height: 700px;
 }
 
+.box2 {
+    background-color: rgb(56, 61, 65);
+    width: 500px;
+}
+
 html {
     scroll-behavior: smooth;
 }
