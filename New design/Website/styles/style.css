@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: rgb(65, 76, 85);
+    font-family: roboto;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin: 0 20px 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    background-color: rgb(35, 121, 190);
+    border-radius: 5px;
+}
+
+.background-header {
+    background-color: rgb(73, 94, 110);
+    padding: 5px 0 0 20px;
+}
+
+.center {
+    text-align: center;
+}
