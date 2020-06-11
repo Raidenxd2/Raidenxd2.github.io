@@ -92,3 +92,14 @@ html {
         font-size: 15px;
     }
 }
+
+.big {
+    font-size: 10px;
+}
+
+.ho {
+    height: 50px;
+    width: 100px;
+    border: none;
+    background-color: green;
+}
