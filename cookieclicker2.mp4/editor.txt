@@ -1,0 +1,3 @@
+For JetBrains users: Install the "JetBrains Rider Editor" Package
+For Visual Studio users: Install the "Visual Studio Editor" Package
+For Visual Studio Code users: Already installed

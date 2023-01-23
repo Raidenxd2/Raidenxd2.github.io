@@ -5,20 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/styles/main.css">
+    <script src="/lib/jquery.js"></script>
     <title>raidenxd2</title>
 </head>
 <body>
-    <header class="background-header">
-        <nav>
-            <ul>
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/pages/games.html">Games</a></li>
-                <li><a href="/pages/credits.html">Credits</a></li>
-            </ul>
-        </nav>
-    </header>
+    <!--Navigation bar-->
+    <div id="nav-placeholder">
+
+    </div>
+
+    <script>
+        $(function(){
+            $("#nav-placeholder").load("/nav.html");
+        });
+    </script>
+
+    <div class="header">
+        <div class="header-img">
+            <img class="header-img" src="/images/header_generic.jpg"/>
+        </div>
+        
+        <h1 class="center">Welcome!</h1>
+    </div>
+
+    <h2 class="center header-end">Use the navigation bar to go to different pages!</h2>
     
-    <h1 class="center">Welcome!</h1>
-    <h1 class="center">Use the navigation bar to go to different pages!</h1>
 </body>
 </html>

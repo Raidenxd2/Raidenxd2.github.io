@@ -48,3 +48,59 @@ a:hover {
         font-size: 24px;
     }
 }
+
+/* Start of Header */
+.header-img {
+    height: 5cm;
+    width: 100%;
+    /*background-size: cover;*/
+    overflow: hidden;
+}
+
+.header > h1 {
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    margin-top: -135px;
+}
+
+.header > h2 {
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    margin-top: 125px;
+}
+
+.header-end {
+    border: none;
+    background: transparent;
+    margin-top: 125px;
+}
+
+/* End of Header */
+
+/* Start of Scrollbar */
+
+/* width */
+::-webkit-scrollbar {
+    width: 13px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    /* box-shadow: inset 0 0 5px grey;  */
+    border-radius: 10px;
+}
+   
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #293038; 
+    border-radius: 10px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #22272e; 
+}
+
+/* End of Scrollbar */

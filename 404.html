@@ -5,19 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/styles/main.css">
+    <script src="/lib/jquery.js"></script>
     <title>Error 404: Not Found</title>
 </head>
 <body>
-    <header class="background-header">
-        <nav>
-            <ul>
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/pages/games.html">Games</a></li>
-                <li><a href="/pages/credits.html">Credits</a></li>
-            </ul>
-        </nav>
-    </header>
+    <!--Navigation bar-->
+    <div id="nav-placeholder">
+
+    </div>
+
+    <script>
+        $(function(){
+            $("#nav-placeholder").load("/nav.html");
+        });
+    </script>
     
-    <h1 class="center">Error 404: Not Found.</h1>
+    <div class="header">
+        <img class="header-img" src="/images/header_generic.jpg"/>
+        <h1 class="center">Error</h1>
+    </div>
+
+    <h1 class="header-end center">Error 404: Not Found.</h1>
 </body>
 </html>
