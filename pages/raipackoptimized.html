@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/main.css">
+    <script src="/lib/jquery.js"></script>
+    <title>RaiPack: Optimized</title>
+</head>
+<body>
+    <!--Navigation bar-->
+    <div id="nav-placeholder">
+
+    </div>
+
+    <script>
+        $(function(){
+            $("#nav-placeholder").load("/nav.html");
+        });
+    </script>
+
+    <div class="header">
+        <div class="header-img">
+            <img src="/images/header_raipackoptimized.png"/>
+        </div>
+        
+        <h1 class="center">RaiPack: Optimized (<a href="https://modrinth.com/modpack/raipack-optimized">Modrinth</a> Modpack)</h1>
+    </div>
+
+    <!-- <h2 class="center header-end">An optimized modpack for Minecraft (beta)</h2> -->
+    <div id="data">
+
+    </div>
+
+    <script>
+        $(function(){
+            $("#data").load("./raipackoptimized_data.html");
+        });
+    </script>
+    
+</body>
+</html>
