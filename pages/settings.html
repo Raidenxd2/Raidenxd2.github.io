@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/styles/main.css">
     <script src="/lib/jquery.js"></script>
     <script src="/main.js"></script>
-    <title>raidenxd2</title>
+    <title>Settings</title>
 </head>
 <body>
     <!--Navigation bar-->
@@ -26,10 +26,22 @@
             <img id="headerGeneric" class="header-img" src="/images/header_generic.jpg"/>
         </div>
         
-        <h1 class="center">Welcome!</h1>
+        <h1 class="center">Settings</h1>
     </div>
 
-    <h2 class="center header-end">Use the navigation bar to go to different pages!</h2>
+    <div class="center">
+        <div class="center header-end">
+            <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Theme</button>
+                <div id="myDropdown" class="dropdown-content">
+                    <a href="#" onclick="darkMode()">Dark</a>
+                    <a href="#" onclick="lightMode()">Light</a>
+                    <a href="#" onclick="blackMode()">Black</a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
     
 </body>
 </html>
