@@ -13,7 +13,7 @@ function darkMode() {
 }
 
 function lightMode() {
-    console.log("User picked theme: Light Mode (gross)");
+    console.log("User picked theme: Light Mode");
     console.log("Setting Value...");
     document.cookie = "theme=light; path=/";
     console.log("Reloading the page...")
