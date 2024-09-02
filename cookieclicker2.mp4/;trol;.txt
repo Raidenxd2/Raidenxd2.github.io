@@ -1,8 +1,0 @@
-Microsoft Dindows
-
-An error occured while performing task: Microsoft.Windows.Cortana.Install(true)
-
-System.NullReferenceException
-The file or folder: "C:\Windows\SystemApps\Microsoft.Cortana_rAF492kgaFG9\Cortana.exe" does not exist.
-
-Error
