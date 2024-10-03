@@ -1,0 +1,6 @@
+{
+  "GCVersion": 1,
+  "Mods_CustomLevelInfoBundleMaxBytes": 10000000,
+  "Mods_CustomLevelInfoBundleTitleMaxCharacters": 100,
+  "Mods_LegacyCustomLevelsEnabled": "true"
+}
