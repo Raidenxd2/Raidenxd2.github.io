@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 663039754
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shareddata
+      Dependencies: {}
+    Info_1:
+      Name: themes-foresttheme-scene
+      Dependencies:
+        Dependency_0: shareddata
+    Info_2:
+      Name: themes-spacetheme-researchfactorylightmap
+      Dependencies: {}
+    Info_3:
+      Name: themes-spacetheme-scene
+      Dependencies:
+        Dependency_0: shareddata
+    Info_4:
+      Name: minigames-mine-environment
+      Dependencies:
+        Dependency_0: shareddata
+    Info_5:
+      Name: themes-foresttheme-researchfactorylightmap
+      Dependencies: {}
+    Info_6:
+      Name: minigames-bosscookies-environment
+      Dependencies:
+        Dependency_0: shareddata
