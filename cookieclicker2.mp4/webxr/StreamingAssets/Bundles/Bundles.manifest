@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 88036133
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shareddata
+      Dependencies: {}
+    Info_1:
+      Name: themes-foresttheme-scene
+      Dependencies:
+        Dependency_0: shareddata
+    Info_2:
+      Name: themes-spacetheme-researchfactorylightmap
+      Dependencies: {}
+    Info_3:
+      Name: themes-spacetheme-scene
+      Dependencies:
+        Dependency_0: shareddata
+    Info_4:
+      Name: minigames-mine-environment
+      Dependencies:
+        Dependency_0: shareddata
+    Info_5:
+      Name: themes-foresttheme-researchfactorylightmap
+      Dependencies: {}
+    Info_6:
+      Name: minigames-bosscookies-environment
+      Dependencies:
+        Dependency_0: shareddata
+    Info_7:
+      Name: fonts-japanese-bold
+      Dependencies: {}
+    Info_8:
+      Name: fonts-japanese-regular
+      Dependencies: {}
+    Info_9:
+      Name: scenes-game
+      Dependencies:
+        Dependency_0: shareddata
+        Dependency_1: minigames-mine-environment
+        Dependency_2: minigames-bosscookies-environment
+        Dependency_3: fonts-japanese-bold
+        Dependency_4: fonts-japanese-regular

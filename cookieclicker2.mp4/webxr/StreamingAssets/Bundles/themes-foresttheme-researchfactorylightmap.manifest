@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 2593868874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c072bbb024d077e766d79a7250899f5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1cfddeea06ce0ec573e0d0ec81ebe20e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 947add6020b1a4c432c5a01d89b29bfc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Themes/content/ForestTheme/ForestTheme_Scene/ForestTheme_WithResearchFactory.exr
+Dependencies: []
