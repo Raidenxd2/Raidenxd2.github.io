@@ -1,9 +1,9 @@
-const cacheName = "raiden-Cookieclicker.mp4-11_17 (main)";
+const cacheName = "raiden-Cookieclicker.mp4-12_27 (main, d71277b957e9c947ba762f7bc614caecc734b9d8)";
 const contentToCache = [
-    "Build/CC1_WebGL-PWA.loader.js",
-    "Build/CC1_WebGL-PWA.framework.js",
-    "Build/CC1_WebGL-PWA.data",
-    "Build/CC1_WebGL-PWA.wasm",
+    "Build/bf7e3eba52dd2353d0a9e310b27ab7f0.loader.js",
+    "Build/28717facd74787f2d9dd16db93744ece.framework.js",
+    "Build/938246a4c400d729c7d8d7f58d4a5e51.data",
+    "Build/a781f0bff03de4579ea2a2cf57bea8ef.wasm",
     "TemplateData/style.css"
 
 ];
