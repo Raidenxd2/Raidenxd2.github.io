@@ -1,9 +1,9 @@
-const cacheName = "raiden-Cookieclicker2.mp4-2.1.0-PublicRelease-OS_11143 (open-source)";
+const cacheName = "raiden-Cookieclicker2.mp4-3.0.0-PublicRelease-OS_11171 (open-source, affc6e7a245c1e3baee343276d90552e16c17528)";
 const contentToCache = [
-    "Build/WebGL_2_1_0-PublicRelease-OS_PWA.loader.js",
-    "Build/WebGL_2_1_0-PublicRelease-OS_PWA.framework.js",
-    "Build/WebGL_2_1_0-PublicRelease-OS_PWA.data",
-    "Build/WebGL_2_1_0-PublicRelease-OS_PWA.wasm",
+    "Build/823e2057c1befef83e1bbb0cfc9687de.loader.js",
+    "Build/12f034cea83a99b642308643202c812c.framework.js",
+    "Build/21716e53f81acdfdeced8126d83ac735.data",
+    "Build/3666b4d15b15520d1b943c12b2915d27.wasm",
     "TemplateData/style.css"
 
 ];
