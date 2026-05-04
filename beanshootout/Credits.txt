@@ -1,0 +1,67 @@
+--- Project leader, level/other concept art, most art, some props/modeling, audio modifications ---
+onewingd
+
+--- All programming, modeler, some art, UI design, some audio modifications, localization, VR support, optimization, mod support, builds ---
+Raidenxd2
+
+--- Music, some art ---
+Lil Ogre (music) PB&J (other)
+
+
+
+Special thanks to the Unity game engine for being incompetent!!
+
+Please see Licenses for the licenses used by these.
+
+Audio:
+electrical box.wav by keweldog -- https://freesound.org/s/181131/ -- License: Creative Commons 0
+Spaceship Ambience  by nick121087 -- https://freesound.org/s/234316/ -- License: Creative Commons 0
+Spiketrap.wav by Deathscyp -- https://freesound.org/s/443806/ -- License: Creative Commons 0
+Car Explosion w Debris.mp3 by PNMCarrieRailfan -- https://freesound.org/s/682062/ -- License: Attribution NonCommercial 4.0
+BOMB OR GUNSHOT.wav by tsakanemashaba -- https://freesound.org/s/501724/ -- License: Attribution NonCommercial 3.0
+MITSUBISHI IMIEV electric car HORN LONG.wav by jakobthiesen -- https://freesound.org/s/174840/ -- License: Attribution 3.0
+Dantedun, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Shotgun - Fire.wav by AbuNijmeh -- https://freesound.org/s/318973/ -- License: Creative Commons 0
+Pistol Shot 2 by TB0Y298 -- https://freesound.org/s/718965/ -- License: Attribution 4.0
+gun_9mm_15m_in_front_m10.wav by johanwestling -- https://freesound.org/s/377789/ -- License: Creative Commons 0
+Desert Eagle Gunshot by elliotlp -- https://freesound.org/s/330634/ -- License: Creative Commons 0
+Shotgun - Reaload.wav by AbuNijmeh -- https://freesound.org/s/318971/ -- License: Attribution 3.0
+Shotgun_shots_at_different_cartridge_loads_1 by TheGreenEyedGhost -- https://freesound.org/s/707794/ -- License: Creative Commons 0
+Shotgun Shot 02.wav by LilMati -- https://freesound.org/s/408099/ -- License: Creative Commons 0
+AssaultRifle3.wav by SuperPhat -- https://freesound.org/s/404560/ -- License: Creative Commons 0
+Rifle Burstfire 2 by TB0Y298 -- https://freesound.org/s/718947/ -- License: Attribution 4.0
+
+Textures:
+ambientCG.com, licensed under the Creative Commons CC0 1.0 Universal License.
+https://ambientcg.com/view?id=Asphalt009
+https://ambientcg.com/view?id=Carpet016
+https://ambientcg.com/view?id=DiamondPlate007D
+https://ambientcg.com/view?id=DiamondPlate008B
+https://ambientcg.com/view?id=Grass001
+https://ambientcg.com/view?id=Metal027
+https://ambientcg.com/view?id=Metal037
+https://ambientcg.com/view?id=Planks030A
+https://ambientcg.com/view?id=SurfaceImperfections015
+https://ambientcg.com/view?id=Tiles107
+https://ambientcg.com/view?id=Wallpaper001A
+https://ambientcg.com/view?id=Wood049
+https://ambientcg.com/view?id=Wood066
+
+By Andre Belozeroff - Страница автора на Panoramio.com, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6079899
+
+Fonts:
+Source Sans Pro (now called Source Sans 3) from Google Fonts (https://fonts.google.com/specimen/Source+Sans+3)
+Noto Sans Japanese, Noto Sans Korean, Noto Sans Simplified Chinese from Google Fonts (https://fonts.google.com/noto/specimen/Noto+Sans) 
+
+Assets and Plugins:
+
+LitMotion: https://github.com/AnnulusGames/LitMotion licensed under MIT license
+URP-Mirrors: https://github.com/VirtualBrightPlayz/URP-Mirrors licensed under MIT license
+URP Volumetric Fog: https://github.com/CristianQiu/Unity-URP-Volumetric-Light/tree/dev licensed under MIT license
+AssetBundle Asset Reference: https://codeberg.org/Raidenxd2/AssetBundleAssetReference licensed under MIT license
+Shared Shaders: https://codeberg.org/Raidenxd2/SharedShaders licensed under MIT license
+BetterPrefs: https://github.com/Carroted/BetterPrefs licensed under MIT license
+UniTask: https://github.com/Cysharp/UniTask licensed under MIT license
+Harmony: https://github.com/pardeike/Harmony licensed under MIT license
+SerialPackage: https://github.com/Raidenxd2/SerialPackage licensed under GNU General Public License v3.0
+Universal Simple Lit ShaderGraph Target: https://github.com/Zallist/unity.zallist.universal-simple-lit-shadergraph-target licensed under MIT license
